@@ -1,12 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sankar umeash</h1>
 <h3 align="center">A passionate DevOps engineer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:3000/1*mqv03KrlG5LK2XU1uV4LJg.gif")
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:3000/1*mqv03KrlG5LK2XU1uV4LJg.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sankarumeash&label=Profile%20views&color=0e75b6&style=flat" alt="sankarumeash" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sankarumeash" alt="sankarumeash" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/umeashsankar" target="blank"><img src="https://img.shields.io/twitter/follow/umeashsankar?logo=twitter&style=for-the-badge" alt="umeashsankar" /></a> </p>
 
 - 🌱 I’m currently learning **DevSecOps**
 
