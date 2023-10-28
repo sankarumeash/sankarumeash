@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sankar umeash</h1>
 <h3 align="center">A passionate DevOps engineer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/b995d7197188fbc1d9e072f2808bf1eae783444dd45cf152097fc410146426bd/687474703a2f2f73747564696f706978656c2e696e2f77702d636f6e74656e742f75706c6f6164732f323031372f31312f31386134393439666339633830363731373264336239366533303265373039372e676966">
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:3000/1*mqv03KrlG5LK2XU1uV4LJg.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sankarumeash&label=Profile%20views&color=0e75b6&style=flat" alt="sankarumeash" /> </p>
